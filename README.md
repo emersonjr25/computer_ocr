@@ -2,7 +2,7 @@
 
 Abaixo os passos utilizados:
 
-1 - Criação do grupo de recursos (meu caso chamado de IA). 1.png
+1 - Criação do grupo de recursos (meu caso chamado de IA). (1.png)
 
 2 - No tutorial do vídeo precisa criar o Serviço de IA Azure (parece ser opcional), mas segui esse passo.
 
